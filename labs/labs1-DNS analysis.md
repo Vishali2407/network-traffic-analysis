@@ -32,4 +32,4 @@ The destination IP (192.168.119.2) suggests the request was handled by a local g
 
 No abnormal behavior was observed. The traffic follows a normal DNS resolution pattern with a valid request and corresponding response.
 ## Screenshots
-
+screenshots/dns-1.png
