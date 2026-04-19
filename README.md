@@ -39,7 +39,7 @@ ip.addr == 192.168.119.128
 dns
 tcp
 http
-tcp.port == 443
+tcp.flags.syn ==1 && tcp.flags.ack ==0
 
 ---
 
