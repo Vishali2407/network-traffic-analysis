@@ -18,5 +18,6 @@ Sequence numbers and acknowledgment numbers were used to ensure reliable deliver
 The session was properly terminated using FIN-ACK packets, indicating a clean connection closure.
 
 No abnormal behavior such as excessive retransmissions, resets (RST), or failed handshakes was observed, suggesting stable and normal TCP communication.
-## screenshots
-![TCP behavior](screenshots/TCP-behavior.png)
+
+## Screenshots
+![TCP behavior](../screenshots/TCP-behavior.png)
