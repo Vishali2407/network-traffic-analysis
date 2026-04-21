@@ -20,4 +20,4 @@ The session was properly terminated using FIN-ACK packets, indicating a clean co
 No abnormal behavior such as excessive retransmissions, resets (RST), or failed handshakes was observed, suggesting stable and normal TCP communication.
 
 ## Screenshots
-![TCP behavior](../screenshots/TCP-behavior.png)
+![TCP behavior](screenshots/TCP-behavior.png)
